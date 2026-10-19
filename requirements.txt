@@ -1,0 +1,8 @@
+openai-whisper
+librosa
+numpy
+transformers
+torch
+sentencepiece
+streamlit
+pytest

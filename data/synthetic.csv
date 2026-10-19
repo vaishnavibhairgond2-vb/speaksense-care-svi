@@ -1,0 +1,117 @@
+text,fear,depression,intimidation,isolation,suicidal
+"They threatened to kill me if I go to the police",1,0,1,0,0
+"A group of men came to my house at night and warned us to withdraw the case",1,0,1,0,0
+"I am scared to step out of my house because they are waiting for me",1,0,1,0,0
+"The villagers have stopped talking to us and will not let us use the well",0,0,0,1,0
+"My children are not allowed to play with the other kids in the village",0,0,0,1,0
+"Nobody is willing to stand with me as a witness, everyone is afraid of them",1,0,0,1,0
+"I have lost all hope, nothing will ever change for us",0,1,0,0,0
+"I cannot sleep or eat since the attack, I just cry all day",0,1,0,0,0
+"I feel like ending my life, I cannot take this anymore",0,1,0,0,1
+"Sometimes I think it would be better if I was not alive",0,1,0,0,1
+"They said they will burn our house if we do not leave the village",1,0,1,0,0
+"I want to know the status of my compensation application",0,0,0,0,0
+"The police have not registered my complaint for ten days",0,0,0,0,0
+"Please tell me which documents are needed for the relief amount",0,0,0,0,0
+"Thank you for listening, the counsellor was very kind",0,0,0,0,0
+"I am worried but I trust that the officer will help us",1,0,0,0,0
+"I feel completely alone, my family has been boycotted and no one visits us",0,1,0,1,0
+"He keeps calling and telling me to take back the case or face the consequences",1,0,1,0,0
+"I have been thinking about killing myself since they beat my father",1,1,0,0,1
+"I do not want to live anymore, I am tired of fighting",0,1,0,0,1
+"The case hearing is next week and I need legal help",0,0,0,0,0
+"I am afraid that they will hurt my daughter",1,0,1,0,0
+"We are not allowed to enter the temple and the shop will not sell to us",0,0,0,1,0
+"I am very angry about the delay but I am not afraid",0,0,0,0,0
+"They killed my brother and now I feel nothing, I cannot even cry",0,1,0,0,0
+"वे मुझे धमकी दे रहे हैं कि अगर मैंने केस वापस नहीं लिया तो जान से मार देंगे",1,0,1,0,0
+"मुझे बहुत डर लग रहा है, रात में कुछ लोग घर के बाहर घूमते रहते हैं",1,0,1,0,0
+"गाँव वालों ने हमसे बात करना बंद कर दिया है और हमें कुएँ से पानी नहीं भरने देते",0,0,0,1,0
+"हमारे परिवार का सामाजिक बहिष्कार कर दिया गया है, कोई हमारे घर नहीं आता",0,0,0,1,0
+"मैं बहुत निराश हूँ, अब कुछ भी अच्छा नहीं लगता",0,1,0,0,0
+"मैं अब जीना नहीं चाहता, सब कुछ खत्म कर देना चाहता हूँ",0,1,0,0,1
+"मुझे लगता है कि मेरे जीने का कोई मतलब नहीं रह गया है",0,1,0,0,1
+"मेरे मुआवज़े की अर्ज़ी का क्या हुआ, कृपया बताइए",0,0,0,0,0
+"पुलिस ने दस दिन से मेरी शिकायत दर्ज नहीं की है",0,0,0,0,0
+"काउंसलर ने बहुत अच्छे से बात की, धन्यवाद",0,0,0,0,0
+"वे कह रहे हैं कि गाँव छोड़ दो वरना घर जला देंगे",1,0,1,0,0
+"मैं बिल्कुल अकेली हो गई हूँ, किसी से बात करने की हिम्मत नहीं होती",0,1,0,1,0
+"मुझे डर है कि वे मेरी बेटी को नुकसान पहुँचाएँगे",1,0,1,0,0
+"इस घटना के बाद से मुझे नींद नहीं आती और मैं दिन भर रोती रहती हूँ",0,1,0,0,0
+"सुनवाई अगले हफ्ते है, मुझे कानूनी मदद चाहिए",0,0,0,0,0
+"मैं मर जाना चाहती हूँ, अब सहा नहीं जाता",0,1,0,0,1
+"गवाह बनने को कोई तैयार नहीं, सब उनसे डरते हैं",1,0,0,1,0
+"उन्होंने मुझे सबके सामने अपमानित किया और मारने की धमकी दी",1,0,1,0,0
+"ते मला धमकी देत आहेत की केस मागे घेतला नाही तर जीवे मारू",1,0,1,0,0
+"मला खूप भीती वाटते, रात्री काही लोक घराबाहेर फिरत असतात",1,0,1,0,0
+"गावकऱ्यांनी आमच्याशी बोलणं बंद केलं आहे आणि आम्हाला विहिरीतून पाणी भरू देत नाहीत",0,0,0,1,0
+"आमच्या कुटुंबाला वाळीत टाकलं आहे, कोणी घरी येत नाही",0,0,0,1,0
+"मी खूप निराश झालो आहे, आता काहीच चांगलं वाटत नाही",0,1,0,0,0
+"मला जगावंसं वाटत नाही, सगळं संपवून टाकावंसं वाटतं",0,1,0,0,1
+"मला वाटतं माझ्या जगण्याला काही अर्थ उरला नाही",0,1,0,0,1
+"माझ्या नुकसानभरपाईच्या अर्जाचं काय झालं, कृपया सांगा",0,0,0,0,0
+"पोलिसांनी दहा दिवसांपासून माझी तक्रार नोंदवलेली नाही",0,0,0,0,0
+"समुपदेशकांनी खूप छान बोलून समजावलं, धन्यवाद",0,0,0,0,0
+"ते म्हणतात गाव सोडा नाहीतर घर जाळून टाकू",1,0,1,0,0
+"मी पूर्णपणे एकटी पडले आहे, कोणाशी बोलायची हिम्मत होत नाही",0,1,0,1,0
+"मला भीती वाटते की ते माझ्या मुलीला इजा करतील",1,0,1,0,0
+"या घटनेनंतर मला झोप येत नाही आणि मी दिवसभर रडत असते",0,1,0,0,0
+"सुनावणी पुढच्या आठवड्यात आहे, मला कायदेशीर मदत हवी आहे",0,0,0,0,0
+"मला मरून जावंसं वाटतं, आता सहन होत नाही",0,1,0,0,1
+"साक्ष द्यायला कोणी तयार नाही, सगळे त्यांना घाबरतात",1,0,0,1,0
+"त्यांनी मला सर्वांसमोर अपमानित केलं आणि मारण्याची धमकी दिली",1,0,1,0,0
+
+"My family stood by me during the hearing and I feel protected now",0,0,0,0,0
+"A man shouted at me last year, but the elders settled it and there has been no trouble since",0,0,0,0,0
+"The police posted a patrol near our house and we feel secure",0,0,0,0,0
+"After meeting the counsellor I feel calmer and more hopeful",0,0,0,0,0
+"I received the compensation amount yesterday, thank you",0,0,0,0,0
+"Our neighbours have been kind and they check on us often",0,0,0,0,0
+"I want to know how to apply for legal aid",0,0,0,0,0
+"I was worried earlier but now I feel confident about the case",0,0,0,0,0
+"The village has welcomed us back and we were invited to the festival",0,0,0,0,0
+"I am sleeping well and eating properly these days",0,0,0,0,0
+"The hearing went well and the lawyer is hopeful",0,0,0,0,0
+"Please tell me the helpline timings, I want to ask about my application",0,0,0,0,0
+"Men on motorbikes follow my daughter to school and tell her to withdraw the case",1,0,1,0,0
+"No one from my community will sit with us or eat with us since I filed the complaint",0,0,0,1,0
+"I have no energy left and I stay in bed all day, nothing makes me happy",0,1,0,0,0
+"I keep thinking everyone would be better off without me",0,1,0,0,1
+"They sent a message saying they will finish your family if you appear in court",1,0,1,0,0
+"Everyone left the village after the incident and now I live alone with no one to talk to",0,1,0,1,0
+"सुनवाई के दौरान मेरा परिवार मेरे साथ खड़ा रहा और अब मैं सुरक्षित महसूस करती हूँ",0,0,0,0,0
+"पिछले साल एक आदमी ने मुझ पर चिल्लाया था, लेकिन बुज़ुर्गों ने मामला निपटा दिया और तब से कोई परेशानी नहीं हुई",0,0,0,0,0
+"पुलिस ने हमारे घर के पास गश्त लगा दी है और हम सुरक्षित महसूस करते हैं",0,0,0,0,0
+"काउंसलर से मिलने के बाद मैं शांत हूँ और मुझे उम्मीद है",0,0,0,0,0
+"मुझे कल मुआवज़े की राशि मिल गई, धन्यवाद",0,0,0,0,0
+"पड़ोसी हमारे प्रति दयालु हैं और अक्सर हालचाल पूछने आते हैं",0,0,0,0,0
+"मुझे जानना है कि कानूनी सहायता के लिए आवेदन कैसे करना है",0,0,0,0,0
+"पहले मुझे चिंता थी लेकिन अब मुझे केस को लेकर भरोसा है",0,0,0,0,0
+"गाँव ने हमें फिर से अपना लिया है और हमें त्योहार पर बुलाया गया",0,0,0,0,0
+"इन दिनों मुझे अच्छी नींद आती है और मैं ठीक से खाना खाती हूँ",0,0,0,0,0
+"सुनवाई अच्छी रही और वकील को उम्मीद है",0,0,0,0,0
+"कृपया हेल्पलाइन का समय बताइए, मुझे अपने आवेदन के बारे में पूछना है",0,0,0,0,0
+"बाइक पर कुछ लोग मेरी बेटी का स्कूल तक पीछा करते हैं और कहते हैं कि केस वापस ले लो",1,0,1,0,0
+"शिकायत दर्ज करने के बाद से हमारे समाज का कोई भी हमारे साथ बैठता या खाना नहीं खाता",0,0,0,1,0
+"मुझमें कोई ताकत नहीं बची, मैं दिन भर बिस्तर पर पड़ी रहती हूँ, कुछ अच्छा नहीं लगता",0,1,0,0,0
+"मुझे लगता है कि मेरे बिना सब लोग ज़्यादा खुश रहेंगे",0,1,0,0,1
+"उन्होंने संदेश भेजा कि अगर तुम अदालत गए तो तुम्हारे पूरे परिवार को खत्म कर देंगे",1,0,1,0,0
+"घटना के बाद सब लोग गाँव छोड़कर चले गए, अब मैं अकेला हूँ और बात करने वाला कोई नहीं",0,1,0,1,0
+"सुनावणीच्या वेळी माझं कुटुंब माझ्या पाठीशी उभं राहिलं आणि आता मला सुरक्षित वाटतं",0,0,0,0,0
+"गेल्या वर्षी एका माणसाने माझ्यावर आरडाओरडा केला होता, पण वडीलधाऱ्यांनी प्रकरण मिटवलं आणि तेव्हापासून काही त्रास झाला नाही",0,0,0,0,0
+"पोलिसांनी आमच्या घराजवळ गस्त ठेवली आहे आणि आम्हाला सुरक्षित वाटतं",0,0,0,0,0
+"समुपदेशकांना भेटल्यानंतर मी शांत आहे आणि मला आशा वाटते",0,0,0,0,0
+"मला काल नुकसानभरपाईची रक्कम मिळाली, धन्यवाद",0,0,0,0,0
+"शेजारी आमच्याशी चांगले वागतात आणि अधूनमधून विचारपूस करायला येतात",0,0,0,0,0
+"कायदेशीर मदतीसाठी अर्ज कसा करायचा हे मला जाणून घ्यायचं आहे",0,0,0,0,0
+"आधी मला काळजी वाटत होती, पण आता मला खटल्याबद्दल विश्वास वाटतो",0,0,0,0,0
+"गावाने आम्हाला पुन्हा स्वीकारलं आहे आणि आम्हाला सणाला बोलावलं होतं",0,0,0,0,0
+"आजकाल मला चांगली झोप लागते आणि मी व्यवस्थित जेवते",0,0,0,0,0
+"सुनावणी चांगली झाली आणि वकिलांना आशा आहे",0,0,0,0,0
+"कृपया हेल्पलाइनची वेळ सांगा, मला माझ्या अर्जाबद्दल विचारायचं आहे",0,0,0,0,0
+"मोटारसायकलवरून काही लोक माझ्या मुलीचा शाळेपर्यंत पाठलाग करतात आणि केस मागे घ्या असं सांगतात",1,0,1,0,0
+"तक्रार केल्यापासून आमच्या समाजातलं कोणीही आमच्याबरोबर बसत नाही किंवा जेवत नाही",0,0,0,1,0
+"माझ्यात काहीच ताकद उरली नाही, मी दिवसभर अंथरुणावर पडून असते, काहीच आनंद वाटत नाही",0,1,0,0,0
+"मला वाटतं माझ्याशिवाय सगळे जास्त सुखी राहतील",0,1,0,0,1
+"त्यांनी निरोप पाठवला की तू कोर्टात गेलास तर तुझ्या पूर्ण कुटुंबाला संपवून टाकू",1,0,1,0,0
+"घटनेनंतर सगळे गाव सोडून गेले, आता मी एकटा आहे आणि बोलायला कोणी नाही",0,1,0,1,0
